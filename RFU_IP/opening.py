@@ -1,2 +1,2 @@
 #### WELCOME TO RFU SEKAWAN ###
-type Python 2
+### TYPE PYTHON2 ###
