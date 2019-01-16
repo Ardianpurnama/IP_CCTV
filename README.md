@@ -8,6 +8,6 @@ SUPPORT PYTHON2 & PYTHON3
 
 WE ARE RFU SEKAWAN
 THANKS TO
-> Ardian Purnama
-> Nino
+> Ardian Purnama,
+> Nino,
 > Sichiro
